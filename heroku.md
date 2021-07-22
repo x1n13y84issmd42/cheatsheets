@@ -1,3 +1,8 @@
+# SSH to an instance
+```bash
+heroku ps:exec -a app-name-goes-here
+```
+
 # Install `nano` to an nstance
 
 ```bash
